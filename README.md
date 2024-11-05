@@ -1,4 +1,4 @@
-### Hi, I’m @HatakekkSheeshh!
+### Hi, I’m Hieu Nguyen!
 
 - 👀 I’m interested in footbal
 - 🌱 I’m currently learning Computer Science
