@@ -24,6 +24,9 @@ You can click the Preview link to take a look at your changes.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HatakekkSheeshh&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=hieunguyen&label=HatakekkSheeshh&color=1&icon=2&pretty=false" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
