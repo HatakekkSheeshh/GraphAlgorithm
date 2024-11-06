@@ -23,10 +23,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-contributor-stats.vercel.app/api?username=HatakekkSheeshh&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HatakekkSheeshh&icon=0&color=0)](https://visitcount.itsvg.in)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=hieunguyen&label=HatakekkSheeshh&color=1&icon=2&pretty=false" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=hieunguyen&label=HatakekkSheeshh&color=1&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
